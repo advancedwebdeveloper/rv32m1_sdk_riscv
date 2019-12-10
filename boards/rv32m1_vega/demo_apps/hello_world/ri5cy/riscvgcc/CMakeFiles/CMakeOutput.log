@@ -1,0 +1,8 @@
+The target system is: Generic -  - arm
+The host system is: Windows - 10.0.17134 - x86
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+riscv32-unknown-elf-gcc.exe (GCC) 7.1.1 20170509
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
